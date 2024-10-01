@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\bin\Debug\net8.0\AppMision.exe
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\bin\Debug\net8.0\AppMision.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\bin\Debug\net8.0\AppMision.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\bin\Debug\net8.0\AppMision.dll
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\bin\Debug\net8.0\AppMision.pdb
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.dll
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\refint\AppMision.dll
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.pdb
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\AppMision.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\LUCAS\EDUTIC\AppMision\AppMision\obj\Debug\net8.0\ref\AppMision.dll
